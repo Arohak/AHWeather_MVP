@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="temperature">%d&#xb0;</string>
+
+    <string name="sunrise">Sunrise: %s</string>
+    <string name="sunset">Sunset: %s</string>
+    <string name="clouds">Clouds: %s"%%"</string>
+    <string name="wind_speed">Wind speed: %s</string>
+    <string name="humidity">Humidity: %s"%%"</string>
+    <string name="pressure">Pressure: %s hPa</string>
+
+    <string name="no_internet_connection">Network currently unavailable, now you see last cached data. Please refresh data when connection become active.</string>
+    <string name="no_data_available">Data currently unavailable, now you see last cached data.</string>
+
+</resources>
